@@ -114,7 +114,25 @@ streamlit run app.py
 
 # 📸 Demo
 
-Add screenshots, GIFs, or a demo video.
+## Main Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Chat Interface
+
+![Chat](images/chat.png)
+
+## Executive Summary
+
+![Summary](images/summary.png)
+
+## Quiz Generator
+
+![Quiz](images/quiz.png)
+
+## Suggested Questions 
+
+![SuggestedQuestions](images/suggestedquestions.png)
 
 ---
 
